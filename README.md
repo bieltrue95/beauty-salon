@@ -14,8 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="OriginSix" ![salon](https://user-images.githubusercontent.com/62819506/162656801-681c561b-9942-4978-aea5-70d99583fc71.png)
- width="100%">
+  <img alt="OriginSix"src="https://user-images.githubusercontent.com/62819506/162656801-681c561b-9942-4978-aea5-70d99583fc71.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
